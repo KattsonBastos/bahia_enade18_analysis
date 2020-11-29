@@ -64,8 +64,11 @@ It's divided in two parts:
 
 <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/58278775?s=400&u=d8844a4668b5e377aaf6d021001dd3bd7338c205&v=4" width="100px;" alt="Kattson Bastos"/>
 <br>
+
 <sub><b>Kattson Bastos</b></sub></a>
+
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Kattson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kattson-bastos-07b07a194/)](https://www.linkedin.com/in/kattson-bastos-07b07a194/) 
 [![Gmail Badge](https://img.shields.io/badge/-kattsonbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kattsonbastos@gmail.com)](mailto:kattsonbastos@gmail.com)
 
