@@ -1,7 +1,7 @@
 # Brazilian's Exame Nacional de Desempenho dos Estudantes* (ENADE): an analysis of the state of Bahia in 2018
 *National Examination of the Student's Performance
 
-<img src="../img/banner.png" alt="drawing" width="100%"/>
+![](https://github.com/KattsonBastos/bahia_enade18_analysis/blob/main/img/banner.png)
 
 _Please, if something goes wrong when trying to open the notebook in github, try this link_: https://nbviewer.jupyter.org/github/KattsonBastos/bahia_enade18_analysis/blob/main/notebooks/v01_enade18.ipynb
 
