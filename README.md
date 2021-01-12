@@ -46,7 +46,7 @@ ENADE has a 3 years of evaluation cycle and each year different areas are evalua
 
 ### How it works
 
-It's divided in two parts: 
+It's divided into two parts: 
 - General Components (common to all participants): 2 discursive and 8 with multiple choices (a total of 10 questions);
 - Specific Components (specific to each course): 3 discursive and 27 with multiple choices (a total of 30 questions);
 
